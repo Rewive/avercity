@@ -1,0 +1,11 @@
+.info-card_title {
+    font-weight: 600;
+    margin-bottom: 2px;
+}
+.info-card_description {
+
+}
+.info-card_icon {
+    color: var(--accent);
+    margin-bottom: 4px;
+}
